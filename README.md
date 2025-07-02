@@ -23,7 +23,7 @@ Low light imaging and low light image enhancement have wild applications in our 
   * [Other methods](#other-methods)
 - [Related Works](#related-works)
 - [Metrics](#metrics)
-- [Reference](#reference)
+- [More Reference](#more-reference)
 
 
 
@@ -201,7 +201,8 @@ Low light imaging and low light image enhancement have wild applications in our 
 | 2024 | IEEE TCE | Back Projection Generative Strategy for Low and Normal Light Image Pairs with Enhanced Statistical Fidelity and Diversity | [pdf](https://ieeexplore.ieee.org/document/10794693) [code](https://github.com/allanchan339/N2LDiff-BP) | N2LDiff-BP  |
 | 2025 | ICLR (Spotlight) | Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model | [pdf](https://arxiv.org/pdf/2311.11638) [code](https://github.com/ChunmingHe/Reti-Diff) |   Reti-Diff   |
 | 2025 | Digital Signal Process. | CDAN: Convolutional dense attention-guided network for low-light image enhancement | [pdf](https://www.sciencedirect.com/science/article/abs/pii/S1051200424004275) [code](https://github.com/SinaRaoufi/CDAN) |   CDAN    |
-
+| 2025 | CVPR | HVI: A New Color Space for Low-light Image Enhancement | [pdf](https://arxiv.org/abs/2502.20272) [code](https://github.com/Fediory/HVI-CIDNet) |  HVI-CIDNet    |
+| 2025 | ICIP |  RT-X Net: RGB-Thermal cross attention network for Low-Light Image Enhancement | [pdf](https://arxiv.org/abs/2505.24705) [code](https://github.com/jhakrraman/rt-xnet) [web](https://sites.google.com/view/rt-xnet/home) |   RT-X Net   |
 
 ### HE-based methods
 
