@@ -251,6 +251,7 @@ Low light imaging and low light image enhancement have wild applications in our 
 | 2023 | Vis Comput             | Illumination estimation for nature preserving low-light image enhancement | [pdf](https://link.springer.com/article/10.1007/s00371-023-02770-9) | NPLIE |
 | 2023 | ICCV  | Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model | [pdf](https://arxiv.org/pdf/2308.13164.pdf) |      Diff-Retinex      |
 | 2023 | ICCV  | Retinexformer: One-stage retinex-based transformer for low-light image enhancement | [pdf](https://arxiv.org/abs/2303.06705) [code](https://github.com/caiyuanhao1998/Retinexformer) |   Retinexformer    |
+| 2025 | ICCV | GT-Mean Loss: A Simple Yet Effective Solution for Brightness Mismatch in Low-Light Image Enhancement | [pdf](https://arxiv.org/abs/2507.20148) [code](https://github.com/jingxiLiao/GT-mean-loss) |   GT-Mean loss   |
 | 2025 | ICLR (Spotlight) | Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model | [pdf](https://arxiv.org/pdf/2311.11638) [code](https://github.com/ChunmingHe/Reti-Diff) |   Reti-Diff   |
 | 2025 | ICIP |  RT-X Net: RGB-Thermal cross attention network for Low-Light Image Enhancement | [pdf](https://arxiv.org/abs/2505.24705) [code](https://github.com/jhakrraman/rt-xnet) [web](https://sites.google.com/view/rt-xnet/home) |   RT-X Net   |
 
