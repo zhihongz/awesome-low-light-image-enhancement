@@ -203,6 +203,8 @@ Low light imaging and low light image enhancement have wild applications in our 
 | 2025 | Digital Signal Process. | CDAN: Convolutional dense attention-guided network for low-light image enhancement | [pdf](https://www.sciencedirect.com/science/article/abs/pii/S1051200424004275) [code](https://github.com/SinaRaoufi/CDAN) |   CDAN    |
 | 2025 | CVPR | HVI: A New Color Space for Low-light Image Enhancement | [pdf](https://arxiv.org/abs/2502.20272) [code](https://github.com/Fediory/HVI-CIDNet) |  HVI-CIDNet    |
 | 2025 | ICIP |  RT-X Net: RGB-Thermal cross attention network for Low-Light Image Enhancement | [pdf](https://arxiv.org/abs/2505.24705) [code](https://github.com/jhakrraman/rt-xnet) [web](https://sites.google.com/view/rt-xnet/home) |   RT-X Net   |
+| 2025 | IJCV |  Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement | [pdf](https://link.springer.com/article/10.1007/s11263-025-02551-y) [code](https://github.com/TAMI-UIB/Nonlocal-Retinex-Deep-Unfolding-Low-Light-Enhancement) |       |
+
 
 ### HE-based methods
 
@@ -254,6 +256,8 @@ Low light imaging and low light image enhancement have wild applications in our 
 | 2025 | ICCV | GT-Mean Loss: A Simple Yet Effective Solution for Brightness Mismatch in Low-Light Image Enhancement | [pdf](https://arxiv.org/abs/2507.20148) [code](https://github.com/jingxiLiao/GT-mean-loss) |   GT-Mean loss   |
 | 2025 | ICLR (Spotlight) | Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model | [pdf](https://arxiv.org/pdf/2311.11638) [code](https://github.com/ChunmingHe/Reti-Diff) |   Reti-Diff   |
 | 2025 | ICIP |  RT-X Net: RGB-Thermal cross attention network for Low-Light Image Enhancement | [pdf](https://arxiv.org/abs/2505.24705) [code](https://github.com/jhakrraman/rt-xnet) [web](https://sites.google.com/view/rt-xnet/home) |   RT-X Net   |
+| 2025 | ICIP |  A Retinex-Based Variational Model with A Nonlocal Gradient-Type Constraint for Low-Light Image Enhancement | [pdf](https://ieeexplore.ieee.org/abstract/document/11084565) |       |
+| 2025 | IJCV |  Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement | [pdf](https://link.springer.com/article/10.1007/s11263-025-02551-y) [code](https://github.com/TAMI-UIB/Nonlocal-Retinex-Deep-Unfolding-Low-Light-Enhancement) |       |
 
 
 ### Other methods
