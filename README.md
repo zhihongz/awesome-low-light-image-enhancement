@@ -271,7 +271,7 @@ Low light imaging and low light image enhancement have wild applications in our 
 | 2017 | ICCAIP          | A New Image Contrast Enhancement Algorithm Using Exposure Fusion Framework | [pdf](https://link.springer.com/chapter/10.1007%2F978-3-319-64698-5_4) [web](https://baidut.github.io/OpenCE/caip2017.html) [code1](https://github.com/baidut/OpenCE/blob/master/ours/Ying_2017_CAIP.m) [code2](https://github.com/AndyHuang1995/Image-Contrast-Enhancement) |       |
 | 2019 | IEEE TIP        | Low-Light Image Enhancement via the Absorption Light Scattering Model | [pdf](https://doi.org/10.1109/TIP.2019.2922106)              | ALSM  |
 | 2019 | ICIP            | Fast Image Enhancement Based on Maximum and Guided Filters   | [pdf](https://ieeexplore.ieee.org/document/8803591)          |       |
-
+| 2025 | IJCV | A Traditional Approach for Color Constancy and Color Assimilation Illusions with Its Applications to Low-Light Image Enhancement | [pdf](https://link.springer.com/article/10.1007/s11263-025-02595-0) | |
 
 
 ## Related Works
