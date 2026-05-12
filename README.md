@@ -204,8 +204,8 @@ Low light imaging and low light image enhancement have wild applications in our 
 | 2025 | CVPR | HVI: A New Color Space for Low-light Image Enhancement | [pdf](https://arxiv.org/abs/2502.20272) [code](https://github.com/Fediory/HVI-CIDNet) |  HVI-CIDNet    |
 | 2025 | ICIP |  RT-X Net: RGB-Thermal cross attention network for Low-Light Image Enhancement | [pdf](https://arxiv.org/abs/2505.24705) [code](https://github.com/jhakrraman/rt-xnet) [web](https://sites.google.com/view/rt-xnet/home) |   RT-X Net   |
 | 2025 | IJCV |  Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement | [pdf](https://link.springer.com/article/10.1007/s11263-025-02551-y) [code](https://github.com/TAMI-UIB/Nonlocal-Retinex-Deep-Unfolding-Low-Light-Enhancement) |       |
-
-
+| 2026 | ESWA | Towards lightest low-light image enhancement architecture for mobile devices | [pdf](https://arxiv.org/abs/2507.04277) [code](https://github.com/mubaisam/LiteIE) | LiteIE |
+| 2026 | ArXiv | Rethinking Low-Light Image Enhancement: A Log-Domain Intensity--Chromaticity Decoupling Perspective | [pdf](https://arxiv.org/abs/2605.02627) [code](https://github.com/mubaisam/ICD) | ICD |
 ### HE-based methods
 
 | Year | Pub      | Paper                                                        | Link                                                         | Note  |
