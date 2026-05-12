@@ -2,8 +2,9 @@
 
 **This is a resource list for low light image enhancement, including datasets, methods/codes/papers, metrics and so on.**
 
-Looking forward to your sharing! You can come up with your ideas and suggestions in the [issue](https://github.com/zhihongz/awesome-low-light-image-enhancement/issues) or directly [pull request](https://github.com/zhihongz/awesome-low-light-image-enhancement/pulls).
+Looking forward to your sharing! You can come up with your suggestions through [「PR」](https://github.com/zhihongz/awesome-low-light-image-enhancement/pulls).
 
+> :bulb: To facilitate reproducibility, papers with open-source code are welcome.
 
 ## Introduction
 
@@ -199,6 +200,8 @@ Low light imaging and low light image enhancement have wild applications in our 
 | 2024 | IEEE Sens. Lett. | Integrating Graph Convolution Into a Deep Multilayer Framework for Low-Light Image Enhancement | [pdf](https://ieeexplore.ieee.org/document/10478172/) [code](https://github.com/santoshpanda1995/LightweightGCN-Model) |       |
 | 2024 | IEEE TIP | AnlightenDiff: Anchoring Diffusion Probabilistic Model on Low Light Image Enhancement | [pdf](https://ieeexplore.ieee.org/document/10740586?source=authoralert) [code](https://github.com/allanchan339/AnlightenDiff) | AnlightenDiff    |
 | 2024 | IEEE TCE | Back Projection Generative Strategy for Low and Normal Light Image Pairs with Enhanced Statistical Fidelity and Diversity | [pdf](https://ieeexplore.ieee.org/document/10794693) [code](https://github.com/allanchan339/N2LDiff-BP) | N2LDiff-BP  |
+| 2024 | IEEE Sensors Journal | Exposure Calibration Network With Graph Convolution for Low-Light Image Enhancement | [pdf](https://doi.org/10.1109/JSEN.2024.3481416) |  |
+| 2025 | IEEE Sensors Journal | A Thermal-Aware Multisensor Framework for Low-Light Image Enhancement | [pdf](https://doi.org/10.1109/JSEN.2025.3590815) |  |
 | 2025 | ICLR (Spotlight) | Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model | [pdf](https://arxiv.org/pdf/2311.11638) [code](https://github.com/ChunmingHe/Reti-Diff) |   Reti-Diff   |
 | 2025 | Digital Signal Process. | CDAN: Convolutional dense attention-guided network for low-light image enhancement | [pdf](https://www.sciencedirect.com/science/article/abs/pii/S1051200424004275) [code](https://github.com/SinaRaoufi/CDAN) |   CDAN    |
 | 2025 | CVPR | HVI: A New Color Space for Low-light Image Enhancement | [pdf](https://arxiv.org/abs/2502.20272) [code](https://github.com/Fediory/HVI-CIDNet) |  HVI-CIDNet    |
@@ -206,7 +209,10 @@ Low light imaging and low light image enhancement have wild applications in our 
 | 2025 | IJCV |  Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement | [pdf](https://link.springer.com/article/10.1007/s11263-025-02551-y) [code](https://github.com/TAMI-UIB/Nonlocal-Retinex-Deep-Unfolding-Low-Light-Enhancement) |       |
 | 2026 | ESWA | Towards lightest low-light image enhancement architecture for mobile devices | [pdf](https://arxiv.org/abs/2507.04277) [code](https://github.com/mubaisam/LiteIE) | LiteIE |
 | 2026 | ArXiv | Rethinking Low-Light Image Enhancement: A Log-Domain Intensity--Chromaticity Decoupling Perspective | [pdf](https://arxiv.org/abs/2605.02627) [code](https://github.com/mubaisam/ICD) | ICD |
+
+
 ### HE-based methods
+
 
 | Year | Pub      | Paper                                                        | Link                                                         | Note  |
 | :--: | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- |
