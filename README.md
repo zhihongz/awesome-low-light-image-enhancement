@@ -209,6 +209,7 @@ Low light imaging and low light image enhancement have wild applications in our 
 | 2025 | IJCV |  Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement | [pdf](https://link.springer.com/article/10.1007/s11263-025-02551-y) [code](https://github.com/TAMI-UIB/Nonlocal-Retinex-Deep-Unfolding-Low-Light-Enhancement) |       |
 | 2026 | ESWA | Towards lightest low-light image enhancement architecture for mobile devices | [pdf](https://arxiv.org/abs/2507.04277) [code](https://github.com/mubaisam/LiteIE) | LiteIE |
 | 2026 | ArXiv | Rethinking Low-Light Image Enhancement: A Log-Domain Intensity--Chromaticity Decoupling Perspective | [pdf](https://arxiv.org/abs/2605.02627) [code](https://github.com/mubaisam/ICD) | ICD |
+| 2026 | ICIP |  A Multimodal Intrinsics-Guided Thermal-Aware Framework for RGB Low-Light Image Enhancement | [pdf]([https://ieeexplore.ieee.org/document/11630490](https://ieeexplore.ieee.org/document/11630490))  [code](https://github.com/simonemelc/TIRGlow) |  TIRGlow     |
 
 
 ### HE-based methods
@@ -278,7 +279,7 @@ Low light imaging and low light image enhancement have wild applications in our 
 | 2019 | IEEE TIP        | Low-Light Image Enhancement via the Absorption Light Scattering Model | [pdf](https://doi.org/10.1109/TIP.2019.2922106)              | ALSM  |
 | 2019 | ICIP            | Fast Image Enhancement Based on Maximum and Guided Filters   | [pdf](https://ieeexplore.ieee.org/document/8803591)          |       |
 | 2025 | IJCV | A Traditional Approach for Color Constancy and Color Assimilation Illusions with Its Applications to Low-Light Image Enhancement | [pdf](https://link.springer.com/article/10.1007/s11263-025-02595-0) | |
-
+| 2026 | ICIP |  A Multimodal Intrinsics-Guided Thermal-Aware Framework for RGB Low-Light Image Enhancement | [pdf]([https://ieeexplore.ieee.org/document/11630490](https://ieeexplore.ieee.org/document/11630490))  [code](https://github.com/simonemelc/TIRGlow) |  TIRGlow     |
 
 ## Related Works
 
