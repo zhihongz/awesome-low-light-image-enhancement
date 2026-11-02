@@ -308,6 +308,7 @@ Low light imaging and low light image enhancement have wild applications in our 
 | Peak Signal to Noise Ratio | PSNR | Full-Reference |- |
 | Structural Similarity Index Measure | SSIM| Full-Reference | - |
 | Learned Perceptual Image Patch Similarity | LPIPS | Full-Reference | [code](https://github.com/richzhang/PerceptualSimilarity) |
+| Jacobian Lens Distance | JLD | Full-Reference | [paper](https://arxiv.org/abs/2610.05967) [code](https://github.com/shreshthsaini/jld) |
 | Lightness Order Error | LOE |  Non-Reference | [paper](https://ieeexplore.ieee.org/document/6512558) |
 | Natural Image Quality Evaluator | NIQE  | Non-Reference | [paper](https://ieeexplore.ieee.org/document/6353522)|
 | Mean Square Error | MSE | Full-Reference | - |
